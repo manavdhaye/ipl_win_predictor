@@ -53,10 +53,3 @@ The following features were created by combining and preprocessing the match and
   - Logistic Regression model in `scikit-learn` pipeline
 - **Accuracy**: ~82%
 
-
-## 🚀 How to Run
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/IPL-Win-Predictor.git
-cd IPL-Win-Predictor
